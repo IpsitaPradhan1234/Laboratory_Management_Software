@@ -313,7 +313,7 @@ export default function page() {
           <div>
            
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Mr. Abc
+            <p className="mt-0.5 text-lg font-medium text-gray-900">Mr. Abc</p>
           </div>
         </div>
 
