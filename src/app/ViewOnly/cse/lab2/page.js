@@ -266,7 +266,7 @@ export default function page() {
           <div>
            
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Akash Tiwari</p>
+            <p className="mt-0.5 text-lg font-medium text-gray-900">Ipsita Pradhan</p>
           </div>
         </div>
 
@@ -313,7 +313,7 @@ export default function page() {
           <div>
            
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Shekhar yadav</p>
+            <p className="mt-0.5 text-lg font-medium text-gray-900">Mr.Abc</p>
           </div>
         </div>
 
