@@ -156,7 +156,7 @@ export default function page() {
           />
         </svg>
 
-        <h2 className="mt-4 text-xl font-bold text-white">Tushar</h2>
+        <h2 className="mt-4 text-xl font-bold text-white">Ipsita Pradhan</h2>
 
         <p className="mt-1 text-sm text-gray-300">
          Computer 9 not starting
@@ -185,7 +185,7 @@ export default function page() {
           />
         </svg>
 
-        <h2 className="mt-4 text-xl font-bold text-white">akash</h2>
+        <h2 className="mt-4 text-xl font-bold text-white">Tushar Saini</h2>
 
         <p className="mt-1 text-sm text-gray-300">
          Computer 9 not starting
@@ -266,7 +266,7 @@ export default function page() {
           <div>
            
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Akash Tiwari</p>
+            <p className="mt-0.5 text-lg font-medium text-gray-900">Ipsita Pradhan</p>
           </div>
         </div>
 
@@ -313,7 +313,7 @@ export default function page() {
           <div>
            
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Shekhar yadav</p>
+            <p className="mt-0.5 text-lg font-medium text-gray-900">Mr. Abc</p>
           </div>
         </div>
 
